@@ -1,5 +1,5 @@
 {
-  "name": "transformers-diagnostic-agent",
+  "name": "scanner-final-version",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -10,6 +10,12 @@
     "next": "14.2.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "5.5.4",
+    "@types/node": "20.14.9",
+    "@types/react": "18.2.66",
+    "@types/react-dom": "18.2.22"
   },
   "engines": { "node": ">=18" }
 }
